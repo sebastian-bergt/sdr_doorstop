@@ -1,0 +1,28 @@
+settings:
+  digits: 4
+  itemformat: yaml
+  prefix: SDR
+  sep: ''
+default:
+  active: true
+  derived: false
+  header: ''
+  level: 1.0
+  links: []
+  normative: true
+  ref: ''
+  reviewed: null
+  text: ''
+  # custom fields:
+  classification: []
+  asil: 'Unassigned'
+  verification_method: 'Unassigned'
+  verification_criteria: 'Unassigned'
+  rational: ''
+  release: ''
+  implemented_in: ''
+  tested_in: ''
+valid:
+  classification: ["Unassigned", "Functional", "Non-Functional", "Process", "Performance", "Constraint", "Assumption of Use"]
+  asil: ["Unassigned", "QM", "A", "B", "C", "D"]
+  verification_method: ["Unassigned", "Test", "Demonstration", "Inspection", "Analysis"]

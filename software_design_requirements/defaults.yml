@@ -1,0 +1,18 @@
+active: true
+derived: false
+header: ''
+level: 1.0
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: ''
+# custom fields:
+classification: []
+asil: 'Unassigned'
+verification_method: 'Unassigned'
+verification_criteria: 'Unassigned'
+rational: 'Must not be empty'
+release: 'Must not be empty'
+implemented_in: ''
+tested_in: ''

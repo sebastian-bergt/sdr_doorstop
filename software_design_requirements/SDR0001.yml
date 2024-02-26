@@ -1,0 +1,19 @@
+active: true
+asil: Unassigned
+classification: []
+derived: false
+header: |
+  Most provide point cloud.
+implemented_in: ''
+level: 1.0
+links: []
+normative: true
+rational: Must not be empty
+ref: ''
+release: Must not be empty
+reviewed: y-QfYfFYEKfpUwnBvej7NC8phn_Nqep8ryaaTn50Jfk=
+tested_in: ''
+text: |
+  The SWC x must provide a point cloud.
+verification_criteria: Unassigned
+verification_method: Unassigned
